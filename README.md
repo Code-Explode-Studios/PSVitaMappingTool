@@ -1,0 +1,1 @@
+Here is a Unity package for the last known version that works with the PS Vita, 2018.2.19f1. This package configures all the inputs for the PS Vita at the click of a button, so you don't have to browse through tons of old forums trying to figure out the input mappings.
